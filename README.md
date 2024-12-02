@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihal-patel9&label=Profile%20views&color=0e75b6&style=flat" alt="nihal-patel9" /> </p>
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN** And **Python**
 
 - 📫 How to reach me **1999nihalpatel@gmail.com**
 
